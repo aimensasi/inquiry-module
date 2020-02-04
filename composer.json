@@ -1,5 +1,6 @@
 {
     "name": "nwidart/inquiry",
+		"type": "laravel-module",
     "description": "",
     "authors": [
         {
